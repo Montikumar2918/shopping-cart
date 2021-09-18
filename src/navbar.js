@@ -6,7 +6,7 @@ function Navbar(props)
         
     <div class="navbar navbar-expand-md bg-light navbar-light">
        <div class="container">
-        <div class="navbar-brand">React Application</div>
+        <div class="navbar-brand">start Bootstrap</div>
          <button class="navbar-toggler" data-toggle="collapse" data-target="#collapsiblenavbar">
            <span class="navbar-toggler-icon"></span>
          </button>
